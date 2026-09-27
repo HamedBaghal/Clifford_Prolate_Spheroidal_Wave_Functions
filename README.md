@@ -17,3 +17,7 @@ If you use this code you can cite my thesis
 	year={2022},
 	school={The University of Newcastle}
 }
+
+A new version is now available.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22987822.svg)](https://doi.org/10.5281/zenodo.22987822)
